@@ -1,0 +1,1 @@
+I'm the contents of file A.txt! Let's get acquainted
